@@ -1,0 +1,96 @@
+
+Ash
+Seeking Shuriken: 14.8
+Smoke Shadow: 15.4
+Fatal Teleport: 14.8
+Rising Storm: 17.8
+
+Atlas
+Path of Statues: 14.0
+Tectonic Fracture: 16.2
+Ore Gaze: 15.0
+Titanic Rumbler: 14.6
+
+Banshee
+Sonic Fracture: 18.0
+Resonance: 18.0
+Savage Silence: 18.0
+Resonating Quake: 14.2
+
+Chroma
+Afterburn: 15.2
+Everlasting Ward: 17.8
+Vexing Retaliation: 19.2
+Guided Effigy: 18.8
+
+Ember
+Fireball Frenzy: 15.6
+Flash Accelerant: 15.4
+Fire Fright: 16.0
+Firequake: 14.8
+
+Equinox
+Duality: 17.0
+Calm & Frenzy: 15.6
+Peaceful Provocation: 17.6
+Energy Transfer: 17.4
+
+Excalibur
+Surging Dash: 16.0
+Radiant Finish: 14.8
+Furious Javelin: 15.0
+Chromatic Blade: 12.8
+
+Frost
+Freeze Force: 15.4
+Ice Wave Impedance: 15.0
+Chilling Globe: 14.2
+Icy Avalanche: 14.8
+
+Gara
+Mending Splinters: 18.8
+
+Harrow
+Warding Thurible: 17.4
+Lasting Covenant: 16.8
+
+Hydroid
+Corroding Barrage: 19.2
+Tidal Impunity: 19.0
+Curative Undertow: 19.2
+Pilfering Swarm: 12.8
+
+Inaros
+Elemental Sandstorm: 18.8
+Negation Swarm: 18.0
+
+Ivara
+Empowered Quiver: 19.2
+Piercing Navigator: 18.6
+Infiltrate: 15.0
+Concentrated Arrow: 17.2
+
+Khora
+Accumulating Whipclaw: 13.8
+
+Limbo
+Haven: 19.2
+Rift Torrent: 18.2
+Cataclysmic Continuum: 18.2
+
+Loki
+Savior Decoy: 16.0
+Hushed Invisibility: 16.6
+Safeguard Switch: 16.8
+Irradiating Disarm: 15.6
+
+Mag
+Greedy Pull: 18.6
+Magnetized Discharge: 20.4
+Counter Pulse: 16.2
+Fracturing Crush: 18.0
+
+Mesa
+Ballistic Bullseye: 15.8
+Muzzle Flash: 14.8
+Staggering Shield: 14.8
